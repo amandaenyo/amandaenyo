@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on various projects.
+- 🌱 I’m currently learning Javascript and MySQL.
+- ⚡ Fun fact: I love studying languages, I'm currently learning Italian. 😄
+
+
 <!--
 **amandaenyo/amandaenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
