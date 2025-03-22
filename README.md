@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on various projects.
-🌱 I’m currently learning Javascript and MySQL.
+🔭 I’m currently working on various projects.<br>
+🌱 I’m currently learning Javascript and MySQL.<br>
 ⚡ Fun fact: I love studying languages, I'm currently learning Italian. 😄
 
 
